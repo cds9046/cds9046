@@ -25,7 +25,7 @@ I'm a junior .NET Web Developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cds9046&show_icons=true&theme=github_dark)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0affb1&height=200&section=footer)
 
 
 <!--
