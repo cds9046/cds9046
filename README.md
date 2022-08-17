@@ -21,7 +21,7 @@ I'm a junior .NET Web Developer.
 
 - - -
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cds9046&layout=compact&hide=css,scss,typescript&theme=github_dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cds9046&exclude_repo=vuero,adsoft,CMPS_Client&layout=compact&hide=css,scss,java&theme=github_dark) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cds9046&show_icons=true&theme=github_dark)
 
