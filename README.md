@@ -25,6 +25,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cds9046&show_icons=true&theme=github_dark)
 
+[![최대식's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cds9046)]
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0affb1&height=200&section=footer)
 
 
